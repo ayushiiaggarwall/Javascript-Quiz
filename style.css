@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+.mainbox{
+    margin-top: 200px !important;
+    background-color: #ff936e;
+    padding: 20px !important;
+}
+
+.mainbox h1{
+    background-color: #ff936e;
+    padding: 5px;
+}
+
+input,label{
+    margin: 7px;
+    font-size: 15px;
+}
+
+#quizdiv li{
+list-style: none;
+}
+
+#quizdiv button{
+    margin-top: 10px;
+    padding: 5px 20px;
+}
