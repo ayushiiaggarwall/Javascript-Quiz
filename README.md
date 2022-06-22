@@ -7,3 +7,5 @@ Tech Stack -
   - CSS
   - Bootstrap
   - JavaScript 
+
+The link for the quiz is https://ayushiiaggarwall.github.io/Javascript-Quiz/
